@@ -1,0 +1,4 @@
+Initial state
+EasyMock for class Account
+After deposit
+EasyMock for class Account
